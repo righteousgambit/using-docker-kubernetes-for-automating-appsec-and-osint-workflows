@@ -20,7 +20,7 @@
     "front-matter": "^2.3.0",
     "fs-extra": "^5.0.0",
     "glob": "^7.1.2",
-    "marked": "^0.3.19",
+    "marked": "^4.0.10",
     "prettier": "^1.12.1",
     "serve": "^6.5.6"
   }
